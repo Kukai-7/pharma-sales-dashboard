@@ -2,6 +2,10 @@
 
 A three-page Power BI report on a pharmaceutical distributor's sales and profitability.
 
+<img src="pnl-waterfall.png" width="420" alt="P&L waterfall: from revenue at list value to net result" />
+
+*P&L waterfall: revenue at list value, discounts, cost of goods, SG&A, result.*
+
 ## Pages
 
 | Page | What it answers |
